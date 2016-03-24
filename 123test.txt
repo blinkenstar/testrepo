@@ -2,4 +2,8 @@
 2. two
 3. three
 4. test - edited
+<<<<<<< .mine
+5. better edit from work||||||| .r3
+=======
 5. edit from work 2
+>>>>>>> .r5
